@@ -1,0 +1,6 @@
+export const mailIcon = require("../../Assets/icons/mail_24px.svg")
+export const eyeIcon = require("../../Assets/icons/eye.svg")
+export const enterIcon = require("../../Assets/icons/enter.svg")
+export const userImg = require("../../Assets/icons/userImg.svg")
+export const ScheduleIcon = require("../../Assets/icons/Schedule.svg")
+export const SerchIcon = require("../../Assets/icons/SearchIcon.svg")

@@ -1,0 +1,156 @@
+/* add Styles for HomePage Here */
+.homePage-Main {
+    background: #F7FAFD;
+    height    : 100%;
+    color     : #A6AFB6;
+}
+
+.homePage-header {
+    width         : 100%;
+    height        : 90px;
+    background    : #FDFEFF;
+    box-shadow    : 0px 4px 19px rgba(78, 101, 113, 0.0832332);
+    display       : flex;
+    flex-direction: column;
+}
+
+.homePage-Logo {
+    position   : absolute;
+    width      : 114px;
+    height     : 44px;
+    left       : 72px;
+    top        : 23px;
+    font-style : normal;
+    font-weight: bold;
+    font-size  : 35.81px;
+    line-height: 44px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.homePage-UserDropDown {
+    display        : flex;
+    justify-content: flex-end;
+    padding-top    : 14px;
+    padding-right  : 60px;
+}
+
+.userImg {
+    height: 36px;
+}
+
+.userName select {
+    height     : 22px;
+    font-style : normal;
+    font-weight: 600;
+    font-size  : 18.4px;
+    line-height: 22px;
+    color      : #7D7D7D;
+    margin-top : 20px;
+    border     : none;
+    background : #fdfeff;
+}
+
+.homePage-Content-Container {
+    display        : flex;
+    flex-direction : column;
+    justify-content: center;
+    padding        : 0% 10%;
+}
+
+.homePage-Content-Nav {
+    display        : flex;
+    justify-content: space-between;
+    margin         : 30px 0px;
+}
+
+.hc-cl-left,
+.hc-cl-center,
+.hc-cl-right {
+    display       : flex;
+    flex-direction: row;
+}
+
+.hc-SceduleNow,
+.hc-Calender,
+.hc-Daily,
+.hc-Weekly,
+.hc-Search {
+    font-size       : 18px;
+    padding         : 14px 30px 10px 30px;
+    background-color: white;
+    border-radius   : 7px;
+    box-shadow      : 0px 4px 28px rgba(87, 112, 141, 0.118471);
+    color           : #A6AFB6;
+    cursor          : pointer;
+}
+
+.hc-Daily {
+    border-radius: 7px 0px 0px 7px;
+    background   : #59D0FD;
+    color        : #FFFFFF;
+}
+
+.hc-Weekly {
+    border-radius: 0px 7px 7px 0px;
+}
+
+.hc-SceduleNow {
+    background: #59D0FD;
+    color     : #FFFFFF;
+    display   : flex;
+}
+
+.hc-SceduleNow-icon {
+    margin-right: 10px;
+}
+
+.hc-Calender {
+    margin-right: 15px;
+}
+
+.hc-icons {
+    height: 18px;
+}
+
+.homePage-Content-Main {
+    background   : white;
+    margin-bottom: 20px;
+    box-shadow   : 0px 0px 32px rgba(143, 157, 176, 0.119755);
+    padding-bottom: 20px;
+}
+
+.homePage-Content-Row p {
+    font-size: 18px;
+}
+
+.homePage-Content-Row {
+    display: flex;
+}
+
+input[type="checkbox"] {
+    margin-top: 18px;
+    height    : 18px;
+    width     : 18px;
+}
+
+.homePage-Content-Column {
+    display       : flex;
+    padding       : 15px 30px 0px 40px;
+    flex-direction: column;
+}
+
+.homePage-Content-Box {
+    width        : 258px;
+    height       : 180px;
+    border       : 1px dashed #979797;
+    box-sizing   : border-box;
+    border-radius: 3px;
+    margin-right : 10px;
+    display: flex;
+    flex: auto;
+    cursor          : pointer;
+}
+.homePage-Content-Box:hover{
+    background: #D8D8D8;
+}

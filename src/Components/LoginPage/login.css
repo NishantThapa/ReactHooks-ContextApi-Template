@@ -1,0 +1,95 @@
+.login-page {
+    height         : 100vh;
+    background     : linear-gradient(1deg, rgba(91,211,253,1) , rgba(82,196,252,1) , rgba(72,181,251,1) );
+    display        : flex;
+    flex-direction : column;
+    justify-content: center;
+    align-items    : center;
+}
+
+.login-form {
+    display         : flex;
+    background-color: #ffff;
+    padding         : 80px 100px;
+    border-radius   : 8px;
+    box-shadow      : 10px 10px 10px #00000014;
+}
+
+.login-form-main {
+    width: 250px;
+}
+
+.login-form-container {
+    display       : flex;
+    flex-direction: column;
+}
+
+.login-header {
+    font-weight: 800;
+    font-size  : 30px;
+}
+
+.login-button-container {
+    display        : flex;
+    justify-content: space-between;
+    margin-top     : 20px;
+}
+
+input[type=text],
+input[type=password] {
+    width        : 100%;
+    padding      : 12px 20px;
+    margin       : 8px 0;
+    display      : inline-block;
+    border       : 1px solid #ccc;
+    box-sizing   : border-box;
+    border-radius: 8px;
+    box-shadow   : 0 10px 6px -6px #77777759;
+    border       : 1px solid #f5f2f2a6;
+}
+::placeholder {
+    opacity: 0.5;
+  }
+.login-username {
+    display: flex;
+}
+
+.login-password {
+    display: flex;
+}
+
+.loginIcon-mail {
+    margin: -30px;
+    width : 15px;
+    opacity: 0.5;
+}
+
+.loginIcon-eye {
+    margin: -32px;
+    width : 18px;
+    opacity: 0.5;
+}
+
+.Login-Btn {
+    height: 50px;
+}
+
+p.login-Common-font {
+    font-size: 15px;
+    color    : gray;
+}
+
+.login-Common-font a {
+    color: #4bbafb;
+}
+
+.Registor-link {
+    margin-top     : 65px;
+    margin-bottom  : -30px;
+    display        : flex;
+    justify-content: center;
+}
+
+a:link {
+    text-decoration: none;
+}

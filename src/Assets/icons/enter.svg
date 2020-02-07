@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="73px" viewBox="0 0 73 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.7845787,12.3753559 L14.9549349,7.54571212 C14.5155825,7.10635966 14.5155825,6.39402857 14.9549349,5.95467611 C15.3942874,5.51532365 16.1066185,5.51532365 16.5459709,5.95467611 L23.2961651,12.7048702 C23.7355175,13.1442227 23.7355175,13.8565538 23.2961651,14.2959062 L16.5459709,21.0461003 C16.1066185,21.4854528 15.3942874,21.4854528 14.9549349,21.0461003 C14.5155825,20.6067479 14.5155825,19.8944168 14.9549349,19.4550643 L19.7845787,14.6254206 L4.50012941,14.6254206 C3.8787912,14.6254206 3.37509706,14.1217264 3.37509706,13.5003882 C3.37509706,12.87905 3.8787912,12.3753559 4.50012941,12.3753559 L19.7845787,12.3753559 Z" id="path-1"></path>
+    </defs>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(4.000000, 4.000000)">
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="3.11547421" fill="#4BBAFB" cx="32.5534406" cy="32.5534406" r="34.1111777"></circle>
+            <g id="arrow-right" transform="translate(19.060954, 19.271637)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="COLOR/-white" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="27.0007765" height="27.0007765"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
